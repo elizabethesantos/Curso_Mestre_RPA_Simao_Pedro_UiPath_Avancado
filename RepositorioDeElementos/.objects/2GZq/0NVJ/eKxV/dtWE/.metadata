@@ -1,0 +1,13 @@
+﻿{
+  "Name": "msedge.exe Rpa Challenge (1)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "dtWEjiVNu0qYhGMC8O-Dlw",
+  "Reference": "5B1j8R0NdEi_jd6GOHcrzQ/dtWEjiVNu0qYhGMC8O-Dlw",
+  "ParentRef": "5B1j8R0NdEi_jd6GOHcrzQ/eKxVRte4qEyRTZVqe4pmHg",
+  "Created": "2024-01-31T23:16:28.3614347Z",
+  "Updated": "2024-01-31T23:16:28.3614347Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

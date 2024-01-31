@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IOSC1aUQYEqhWOXq6jqu3g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="1313, 711, 17, 18" CvType="ArrowButton" DesignTimeRectangle="1313, 115, 17, 18" DesignTimeScaleFactor="1" ElementType="ArrowButton" FriendlyName="'msedge.exe Rpa Challenge'" Guid="91b8f29a-e8ea-4f4d-a47f-fbe3bb2e3c75" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1137b5461eff6050caae837d5dfc37b4.png" xmlns="">0BRazxi7210ahInipYZhTsw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CWRZ23F7bEyqyRMSE1NC-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="423, 229, 269, 28" CvType="InputBox" DesignTimeRectangle="427, 220, 263, 37" DesignTimeScaleFactor="0.800000011920929" ElementType="InputBox" FriendlyName="'INPUT IQWUx'" FullSelectorArgument="&lt;webctrl id='IQWUx' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='IQWUx' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' /&gt;" Guid="cf778a49-7711-4d14-a7ca-e1f903c4c10c" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAQsAAAApCAYAAAAiRgzbAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACgSURBVHhe7dYxDQAxEAPB5w/iqF6qpPlmAcxIprDytwCBWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWACJWADJi8XMmJn9dnkWQCIWQLB7ALy5P+dzqxXEAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="426, 206, 27, 10" CvTextArgument="Email" CvType="Text" DesignTimeRectangle="427, 205, 26, 13" ElementType="Text" FriendlyName="'Email'" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Email' check:text='Email' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAARCAYAAADKZhx3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEfSURBVEhL7ZLRhsQwFIb3/R+ilDCEEIZQylDKkKtelVBKWUopJYRc/HuSSWd6sex213Ru5qN1ck6SLznygRfxFh/Gc8V+wjj5GDpr4WJ04y6etQRjLH0Sek6F/9BdwAoDjwk156inlCfu4qnm4NtKwFlY52DHHm0/phM7jH0LMyy04QO/DDBmwEyTvF1gQ9FbLDHYKQ65nAmUukVTUUd4iVJJVE0LXZzoNl08zKQFcqrptkF1PkPwDMpQwShkMfhBnOWp1VIjdDrkTvV4m0C0Km0Y+UTFFAw6FKyk/8oMLXaKv7vxNmfUdnHYjMSLhuQ1jR6Y9YBPFYebnwSu62P0HUr211anV/07MTFeIWidkBJcXFDKHeKjeYsP40Vi4AuaQ6bXUHYKZwAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="865efebc654cb5f9608ecbaabecc7682.png" xmlns="">0z7hkeonmDE-_Rr74iMqpZQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Edge",
+  "Type": "App",
+  "Id": "2GZqNx2vm02UitwdprCdSg",
+  "Reference": "5B1j8R0NdEi_jd6GOHcrzQ/2GZqNx2vm02UitwdprCdSg",
+  "Created": "2024-01-31T23:08:27.5426039Z",
+  "Updated": "2024-01-31T23:08:27.5426039Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
